@@ -1,0 +1,4 @@
+0 Garrafa de agua
+1 controle ar
+2 Pincel
+3 Mouse
